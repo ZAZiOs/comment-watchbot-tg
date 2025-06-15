@@ -1,5 +1,9 @@
 # Telegram Channel-Assigned Chat Kicker
 
+>[!WARNING]
+> This repository is archived [due to a better fork](https://github.com/zhegal/comment-watchbot-tg-fork). You can still use this version if you want, but it's better to switch to the new version.
+> 
+
 This bot automatically kicks users who join the chat, allowing them to only leave comments in reply to channel posts.
 
 ## Requirements
